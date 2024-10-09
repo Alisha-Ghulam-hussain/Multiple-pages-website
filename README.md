@@ -1,2 +1,2 @@
 # Multiple-pages-website
-University Webpage
+University Website
